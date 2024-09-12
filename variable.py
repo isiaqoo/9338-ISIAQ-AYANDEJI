@@ -1,5 +1,5 @@
-ahmed = "you are foolish"
-rokeeb = "you are mad"
+ahmed = "is a great boy"
+rokeeb = "is a big boy"
 age2 = 50
 age = 54
 print(ahmed)
